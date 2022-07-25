@@ -1,6 +1,6 @@
 """Onsite Day1"""
 def main():
-    """เบื่อแล้วขนมตู้ อยากเป็นชู้กับเธอ"""
+    """ppp"""
     money_in_bank = int(input())
     amount_drink = int(input())
     snack1 = int(input())
